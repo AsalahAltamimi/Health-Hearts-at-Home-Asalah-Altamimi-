@@ -1,50 +1,91 @@
-# Welcome to your Expo app 👋
+# Health Hearts at Home - CHD Caregiver Support App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A comprehensive React Native mobile application designed to support caregivers of children with Congenital Heart Disease (CHD). This bilingual (English/Arabic) app provides essential resources, tracking tools, and support information for families navigating CHD care.
 
-## Get started
+## Features
 
-1. Install dependencies
+- 🌐 **Bilingual Support**: Full English and Arabic language support with RTL layout
+- 🔐 **User Authentication**: Secure login/signup with Firebase Authentication
+- 📊 **Health Tracking**: Track feeding, weight, blood pressure, and pulse oximetry
+- 📈 **Charts & Trends**: Visualize health data over time
+- 📚 **Educational Resources**: Articles, videos, tutorials, and reliable medical information
+- 🏥 **Hospital Information**: Access to hospital details, contacts, and cafeteria menus
+- 👥 **Support Groups**: Connect with caregiver support groups and communities
+- 📝 **Journal**: Keep personal notes and records
+- 📞 **Emergency Contacts**: Quick access to emergency and personal contacts
+- 🎥 **Video Library**: Educational videos and patient stories
+- 📖 **Spiritual Resources**: Devotionals and spiritual support materials
 
+## Technology Stack
+
+- **React Native** with Expo
+- **Firebase** (Authentication & Firestore)
+- **React Navigation** (Drawer & Stack navigators)
+- **React Native Paper** (UI components)
+- **i18next** (Internationalization)
+- **AsyncStorage** (Local data persistence)
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+- Expo CLI
+- Firebase project configured
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AsalahAltamimi/Health-Hearts-at-Home-Asalah-Altamimi-.git
+   cd Health-Hearts-at-Home-Asalah-Altamimi-
+   ```
+
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-2. Start the app
+3. Configure Firebase:
+   - Update `config/firebase.js` with your Firebase configuration
 
+4. Start the app:
    ```bash
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## Project Structure
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+```
+├── components/          # Reusable UI components
+├── config/             # Configuration files (Firebase)
+├── context/            # React Context providers
+├── data/               # JSON data files (articles, contacts, etc.)
+├── screens/            # Screen components
+├── translations/       # i18n translation files
+└── assets/             # Images and static assets
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Development
 
-## Learn more
+This project uses:
+- **Expo SDK 54**
+- **React Navigation 6**
+- **Firebase SDK 10**
 
-To learn more about developing your project with Expo, look at the following resources:
+## Contributing
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+This is a project for supporting CHD caregivers. Contributions and feedback are welcome.
 
-## Join the community
+## License
 
-Join our community of developers creating universal apps.
+This project is created for educational and support purposes.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Support
+
+For questions or support, please contact the development team.
+
+---
+
+**Health Hearts at Home** - Supporting caregivers, one heartbeat at a time ❤️
