@@ -82,9 +82,7 @@ This is a project for supporting CHD caregivers. Contributions and feedback are 
 
 This project is created for educational and support purposes.
 
-## Support
 
-For questions or support, please contact the development team.
 
 ---
 
