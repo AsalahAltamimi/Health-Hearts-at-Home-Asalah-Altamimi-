@@ -1,0 +1,58 @@
+{
+  "llu": [
+    {
+      "name": "Pediatric Cardiology Desk",
+      "department": "Cardiology Department",
+      "phone": "+962 6 530 1234",
+      "email": "cardiology@lluh.org"
+    },
+    {
+      "name": "Appointment Line",
+      "department": "Scheduling",
+      "phone": "+962 6 530 5678",
+      "email": "appointments@lluh.org"
+    },
+    {
+      "name": "Emergency Department",
+      "department": "Emergency Services",
+      "phone": "+962 6 530 9999",
+      "email": "emergency@lluh.org"
+    },
+    {
+      "name": "Main Phone",
+      "department": "General Information",
+      "phone": "+962 6 530 1234",
+      "website": "https://medical-center.lomalindahealth.org/contact-us"
+    }
+  ],
+  "local_resources": [
+    {
+      "name": "General Pediatric Helpline",
+      "description": "24/7 pediatric support line",
+      "phone": "+962 6 530 0000",
+      "email": "pediatric@local.org",
+      "website": "https://www.cdc.gov/newborns"
+    },
+    {
+      "name": "Community Health Center",
+      "description": "Local health resources",
+      "phone": "+962 6 555 1234",
+      "email": "community@health.org",
+      "website": "https://www.aap.org"
+    }
+  ],
+  "personal": [],
+  "emergency": [
+    {
+      "name": "Emergency Services",
+      "description": "Call 911 for emergencies",
+      "phone": "911"
+    },
+    {
+      "name": "CHD Emergency Line",
+      "description": "24/7 CHD-specific emergency support",
+      "phone": "+962 6 530 1111"
+    }
+  ]
+}
+

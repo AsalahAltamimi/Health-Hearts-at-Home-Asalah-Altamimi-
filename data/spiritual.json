@@ -1,0 +1,56 @@
+{
+  "devotionals": [
+    {
+      "id": 1,
+      "title_en": "A Prayer for Strength",
+      "title_ar": "صلاة من أجل القوة",
+      "description_en": "A short devotional video to encourage caregivers.",
+      "description_ar": "فيديو تأملي قصير لتشجيع مقدمي الرعاية.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZTCOicdnm_g"
+    },
+    {
+      "id": 2,
+      "title_en": "Hope for Difficult Times",
+      "title_ar": "الأمل في الأوقات الصعبة",
+      "description_en": "Finding hope and peace during challenging moments.",
+      "description_ar": "العثور على الأمل والسلام خلال اللحظات الصعبة.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZTCOicdnm_g"
+    },
+    {
+      "id": 3,
+      "title_en": "Comfort and Hope",
+      "title_ar": "الراحة والأمل",
+      "description_en": "A devotional to encourage caregivers.",
+      "description_ar": "تأمل لتشجيع مقدمي الرعاية.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZTCOicdnm_g"
+    }
+  ],
+  "resources": [
+    {
+      "id": 1,
+      "title_en": "Spiritual Resources",
+      "title_ar": "الموارد الروحية",
+      "content_en": "You are not alone. Caring for a child with CHD is challenging, but strength grows through hope and community.",
+      "content_ar": "أنت لست وحدك. رعاية طفل مصاب بمرض القلب الخلقي أمر صعب، لكن القوة تنمو من خلال الأمل والمجتمع."
+    },
+    {
+      "id": 2,
+      "title_en": "Daily Reflection",
+      "title_ar": "التأمل اليومي",
+      "content_en": "Take a moment each day to breathe, reflect, and acknowledge the progress you and your child make.",
+      "content_ar": "خذ لحظة كل يوم للتنفس والتأمل والاعتراف بالتقدم الذي تحرزه أنت وطفلك."
+    },
+    {
+      "id": 3,
+      "title_en": "Peace & Comfort Readings",
+      "title_ar": "قراءات السلام والراحة",
+      "url": "https://www.goodreads.com/quotes/tag/strength",
+      "content_en": "Inspirational readings for strength and peace.",
+      "content_ar": "قراءات ملهمة للقوة والسلام."
+    }
+  ],
+  "chaplain": {
+    "email": "chaplain@lluh.org",
+    "website": "https://medical-center.lomalindahealth.org/patients-visitors/chaplain-services"
+  }
+}

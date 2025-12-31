@@ -1,0 +1,106 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "title_en": "Feeding Guidelines",
+      "title_ar": "إرشادات التغذية",
+      "content_en": "Infants with CHD may need smaller, more frequent feedings. Monitor for signs of fatigue: sweating, short breaths, long rest breaks. Keep feeding time under 30 minutes.",
+      "content_ar": "قد يحتاج الرضع المصابون بمرض القلب الخلقي إلى وجبات أصغر وأكثر تكراراً. راقب علامات التعب: التعرق، التنفس القصير، فترات الراحة الطويلة. حافظ على وقت التغذية أقل من 30 دقيقة."
+    },
+    {
+      "id": 2,
+      "title_en": "Sleep & Daily Routine",
+      "title_ar": "النوم والروتين اليومي",
+      "content_en": "Babies often sleep 14–17 hours a day. Place baby on their back to sleep. Avoid over-stimulation; use calm playtime.",
+      "content_ar": "غالباً ما ينام الأطفال 14-17 ساعة في اليوم. ضع الطفل على ظهره للنوم. تجنب الإفراط في التحفيز؛ استخدم وقت اللعب الهادئ."
+    },
+    {
+      "id": 3,
+      "title_en": "Growth & Development",
+      "title_ar": "النمو والتطور",
+      "content_en": "CHD babies may grow slower — this is normal. Track weight weekly (you can use our \"Track Your Child\" tool). Contact a caregiver if weight drops for 2+ weeks.",
+      "content_ar": "قد ينمو أطفال مرض القلب الخلقي بشكل أبطأ - هذا طبيعي. تتبع الوزن أسبوعياً (يمكنك استخدام أداة \"تتبع طفلك\"). اتصل بمقدم الرعاية إذا انخفض الوزن لأكثر من أسبوعين."
+    },
+    {
+      "id": 4,
+      "title_en": "When to Seek Help",
+      "title_ar": "متى تطلب المساعدة",
+      "content_en": "Difficulty breathing, Blue lips, Not feeding, Vomiting after every meal, No wet diapers for 6 hours",
+      "content_ar": "صعوبة التنفس، الشفاه الزرقاء، عدم التغذية، القيء بعد كل وجبة، عدم وجود حفاضات مبللة لمدة 6 ساعات"
+    }
+  ],
+  "library": [
+    {
+      "id": 1,
+      "age_range_en": "0-3 months",
+      "age_range_ar": "0-3 أشهر",
+      "title_en": "Newborn Care Basics",
+      "title_ar": "أساسيات رعاية المواليد",
+      "content_en": "Essential care information for newborns with CHD.",
+      "content_ar": "معلومات الرعاية الأساسية للمواليد المصابين بمرض القلب الخلقي."
+    },
+    {
+      "id": 2,
+      "age_range_en": "3-6 months",
+      "age_range_ar": "3-6 أشهر",
+      "title_en": "Infant Development",
+      "title_ar": "تطور الرضيع",
+      "content_en": "Developmental milestones and care for 3-6 month old infants.",
+      "content_ar": "معالم التطور والرعاية للرضع من 3-6 أشهر."
+    }
+  ],
+  "development_by_age": [
+    {
+      "age": "0-3 months",
+      "milestones_en": "Lifts head, follows objects, responds to sounds",
+      "milestones_ar": "يرفع الرأس، يتابع الأشياء، يستجيب للأصوات"
+    },
+    {
+      "age": "3-6 months",
+      "milestones_en": "Rolls over, reaches for objects, babbles",
+      "milestones_ar": "يتدحرج، يمد يده للأشياء، يثرثر"
+    }
+  ],
+  "vaccines": [
+    {
+      "age": "Birth",
+      "vaccines_en": "Hepatitis B",
+      "vaccines_ar": "التهاب الكبد B"
+    },
+    {
+      "age": "2 months",
+      "vaccines_en": "DTaP, Hib, PCV13, Polio, Rotavirus",
+      "vaccines_ar": "DTaP، Hib، PCV13، شلل الأطفال، فيروس الروتا"
+    }
+  ],
+  "formula_mixes": [
+    {
+      "kcal": 22,
+      "instructions_en": "Mix 1 scoop per 30ml water",
+      "instructions_ar": "امزج ملعقة واحدة لكل 30 مل من الماء"
+    },
+    {
+      "kcal": 24,
+      "instructions_en": "Mix 1 scoop per 25ml water",
+      "instructions_ar": "امزج ملعقة واحدة لكل 25 مل من الماء"
+    },
+    {
+      "kcal": 27,
+      "instructions_en": "Mix 1 scoop per 20ml water",
+      "instructions_ar": "امزج ملعقة واحدة لكل 20 مل من الماء"
+    }
+  ],
+  "websites": [
+    {
+      "title_en": "CDC Newborn Care",
+      "title_ar": "رعاية المواليد CDC",
+      "url": "https://www.cdc.gov/newborns"
+    },
+    {
+      "title_en": "American Academy of Pediatrics",
+      "title_ar": "الأكاديمية الأمريكية لطب الأطفال",
+      "url": "https://www.aap.org"
+    }
+  ]
+}
+

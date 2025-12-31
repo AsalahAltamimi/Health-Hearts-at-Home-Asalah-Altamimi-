@@ -1,0 +1,54 @@
+{
+  "name": "Loma Linda University Medical Center",
+  "contacts": ["+962 6 530 1234", "+962 6 530 5678"],
+  "map_link": "https://www.google.com/maps/place/Loma+Linda+University+Medical+Center",
+  "cafeteria_hours": "Mon-Fri: 7:00 - 19:00, Sat-Sun: 8:00 - 17:00",
+  "emergency_contacts": ["911", "+962 6 530 9999"],
+  "weblinks": [
+    {
+      "title_en": "Hospital Main Site",
+      "title_ar": "الموقع الرئيسي للمستشفى",
+      "url": "https://medical-center.lomalindahealth.org/"
+    },
+    {
+      "title_en": "Pediatric Cardiology Dept",
+      "title_ar": "قسم طب قلب الأطفال",
+      "url": "https://medical-center.lomalindahealth.org/cardiology"
+    },
+    {
+      "title_en": "Appointments",
+      "title_ar": "المواعيد",
+      "url": "https://medical-center.lomalindahealth.org/appointments"
+    },
+    {
+      "title_en": "Hospital Map",
+      "title_ar": "خريطة المستشفى",
+      "url": "https://www.google.com/maps/place/Loma+Linda+University+Medical+Center"
+    },
+    {
+      "title_en": "Chaplain Services",
+      "title_ar": "خدمات القسيس",
+      "url": "https://medical-center.lomalindahealth.org/patients-visitors/chaplain-services"
+    }
+  ],
+  "showers": {
+    "location_en": "Level 2, Room 2-140",
+    "location_ar": "الطابق الثاني، الغرفة 2-140",
+    "hours": "24/7",
+    "notes_en": "Family Shower Rooms – Available 24/7. Towels available at front desk.",
+    "notes_ar": "غرف دش العائلة - متاحة على مدار الساعة. المناشف متاحة في مكتب الاستقبال."
+  },
+  "cafeteria": {
+    "hours": "7:00am – 8:00pm",
+    "sample_menu": {
+      "breakfast": "Eggs, oatmeal, fruit",
+      "lunch": "Chicken & rice, salad, soup",
+      "dinner": "Pasta, vegetables, sandwiches"
+    }
+  },
+  "follow_ups": {
+    "info_en": "Schedule follow-up appointments through the appointment line or online portal.",
+    "info_ar": "حدد مواعيد المتابعة من خلال خط المواعيد أو البوابة الإلكترونية.",
+    "calendar_link": "https://medical-center.lomalindahealth.org/calendar"
+  }
+}

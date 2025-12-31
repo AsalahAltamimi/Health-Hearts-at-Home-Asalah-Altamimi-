@@ -1,0 +1,112 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "title_en": "What is CHD?",
+      "title_ar": "ما هو مرض القلب الخلقي؟",
+      "content_en": "CHD stands for congenital heart disease, a structural issue present at birth. Many children with CHD live full, healthy lives with proper care. Common types include: VSD, ASD, Tetralogy of Fallot, and PDA. Your child's condition will be explained by your healthcare provider.",
+      "content_ar": "يشير مرض القلب الخلقي إلى مشكلة بنيوية في القلب موجودة منذ الولادة. يعيش العديد من الأطفال المصابين بمرض القلب الخلقي حياة كاملة وصحية مع الرعاية المناسبة. الأنواع الشائعة تشمل: VSD، ASD، رباعية فالو، وPDA. سيتم شرح حالة طفلك من قبل مقدم الرعاية الصحية الخاص بك.",
+      "image": "https://placehold.co/600x300"
+    },
+    {
+      "id": 2,
+      "title_en": "Common Symptoms",
+      "title_ar": "الأعراض الشائعة",
+      "content_en": "Symptoms can include rapid breathing, poor feeding, and cyanosis (blue lips/skin). Other signs may include fatigue, sweating during feeding, and slow weight gain.",
+      "content_ar": "قد تشمل الأعراض التنفس السريع، ضعف التغذية، والازرقاق (شفاه/جلد أزرق). قد تشمل العلامات الأخرى التعب والتعرق أثناء التغذية وزيادة الوزن البطيئة.",
+      "image": "https://placehold.co/600x300"
+    },
+    {
+      "id": 3,
+      "title_en": "Treatment Overview",
+      "title_ar": "نظرة عامة على العلاج",
+      "content_en": "Treatments range from medications to procedures and surgeries. Some conditions may resolve on their own, while others require intervention. Your healthcare team will develop a treatment plan specific to your child's needs.",
+      "content_ar": "تتراوح العلاجات من الأدوية إلى الإجراءات والعمليات الجراحية. قد تتحلل بعض الحالات من تلقاء نفسها، بينما تتطلب حالات أخرى التدخل. سيطور فريق الرعاية الصحية الخاص بك خطة علاج محددة لاحتياجات طفلك.",
+      "image": "https://placehold.co/600x300"
+    }
+  ],
+  "reliable_websites": [
+    {
+      "id": 1,
+      "title_en": "CDC - Congenital Heart Defects",
+      "title_ar": "CDC - عيوب القلب الخلقية",
+      "url": "https://www.cdc.gov/heart-defects",
+      "description_en": "Centers for Disease Control and Prevention information on CHD",
+      "description_ar": "معلومات مراكز السيطرة على الأمراض والوقاية منها حول مرض القلب الخلقي"
+    },
+    {
+      "id": 2,
+      "title_en": "American Heart Association",
+      "title_ar": "جمعية القلب الأمريكية",
+      "url": "https://www.heart.org/en/health-topics/congenital-heart-defects",
+      "description_en": "Comprehensive CHD resources and information",
+      "description_ar": "موارد ومعلومات شاملة عن مرض القلب الخلقي"
+    },
+    {
+      "id": 3,
+      "title_en": "Mayo Clinic - Congenital Heart Disease",
+      "title_ar": "مايو كلينك - مرض القلب الخلقي",
+      "url": "https://www.mayoclinic.org/diseases-conditions/congenital-heart-disease",
+      "description_en": "Mayo Clinic information on congenital heart disease",
+      "description_ar": "معلومات مايو كلينك عن مرض القلب الخلقي"
+    },
+    {
+      "id": 4,
+      "title_en": "Cleveland Clinic - Congenital Heart Disease",
+      "title_ar": "كليفلاند كلينك - مرض القلب الخلقي",
+      "url": "https://my.clevelandclinic.org/health/diseases/16829-congenital-heart-disease",
+      "description_en": "Cleveland Clinic information on congenital heart disease",
+      "description_ar": "معلومات كليفلاند كلينك عن مرض القلب الخلقي"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title_en": "Understanding Heart Defects - Mayo Clinic",
+      "title_ar": "فهم عيوب القلب - مايو كلينك",
+      "description_en": "Educational video about common heart defects",
+      "description_ar": "فيديو تعليمي عن عيوب القلب الشائعة",
+      "youtubeUrl": "https://www.youtube.com/watch?v=x6VrwrIonc0"
+    },
+    {
+      "id": 2,
+      "title_en": "Congenital Heart Disease - Treatment Options (Cleveland Clinic)",
+      "title_ar": "مرض القلب الخلقي - خيارات العلاج (كليفلاند كلينك)",
+      "description_en": "Overview of treatment approaches",
+      "description_ar": "نظرة عامة على نهج العلاج",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ndl9YrTeQf0"
+    }
+  ],
+  "library": [
+    {
+      "id": 1,
+      "defect_en": "VSD (Ventricular Septal Defect)",
+      "defect_ar": "عيب الحاجز البطيني",
+      "description_en": "A hole in the wall between the heart's lower chambers",
+      "description_ar": "ثقب في الجدار بين الحجرات السفلية للقلب"
+    },
+    {
+      "id": 2,
+      "defect_en": "ASD (Atrial Septal Defect)",
+      "defect_ar": "عيب الحاجز الأذيني",
+      "description_en": "A hole in the wall between the heart's upper chambers",
+      "description_ar": "ثقب في الجدار بين الحجرات العلوية للقلب"
+    }
+  ],
+  "medications": [
+    {
+      "id": 1,
+      "name_en": "Digoxin",
+      "name_ar": "ديجوكسين",
+      "purpose_en": "Helps strengthen heart contractions",
+      "purpose_ar": "يساعد على تقوية تقلصات القلب"
+    },
+    {
+      "id": 2,
+      "name_en": "Diuretics",
+      "name_ar": "مدرات البول",
+      "purpose_en": "Reduce fluid buildup",
+      "purpose_ar": "تقليل تراكم السوائل"
+    }
+  ]
+}

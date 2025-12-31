@@ -1,0 +1,66 @@
+{
+  "support_groups": [
+    {
+      "id": 1,
+      "name_en": "Mended Little Hearts (Parents of CHD Children)",
+      "name_ar": "القلوب الصغيرة المصلحة (آباء أطفال مرض القلب الخلقي)",
+      "meeting_info_en": "Support group for parents of children with CHD",
+      "meeting_info_ar": "مجموعة دعم لآباء الأطفال المصابين بمرض القلب الخلقي",
+      "zoom_link": null,
+      "facebook": "https://www.facebook.com/MendedLittleHearts",
+      "website": "https://mendedlittlehearts.org/"
+    },
+    {
+      "id": 2,
+      "name_en": "Mended Hearts",
+      "name_ar": "القلوب المصلحة",
+      "meeting_info_en": "National support organization",
+      "meeting_info_ar": "منظمة دعم وطنية",
+      "zoom_link": null,
+      "facebook": "https://www.facebook.com/MendedHeartsInc",
+      "website": "https://mendedhearts.org/"
+    },
+    {
+      "id": 3,
+      "name_en": "Little Heart Warrior",
+      "name_ar": "المحارب الصغير للقلب",
+      "meeting_info_en": "Support group for families",
+      "meeting_info_ar": "مجموعة دعم للعائلات",
+      "zoom_link": null,
+      "facebook": "https://www.facebook.com/groups/littleheartwarriors",
+      "website": "https://littleheartwarriors.org/"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title_en": "Caring for Your CHD Child at Home",
+      "title_ar": "العناية بطفلك المصاب بمرض القلب الخلقي في المنزل",
+      "description_en": "Tips and routines for daily care.",
+      "description_ar": "نصائح وروتينات للعناية اليومية.",
+      "url": "https://healthy.kaiserpermanente.org/health-wellness/health-encyclopedia/he.congenital-heart-disease-in-children-care-instructions.uf8657"
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "title_en": "Patient Story: Little Hero",
+      "title_ar": "قصة مريض: البطل الصغير",
+      "description_en": "Journey through diagnosis and recovery.",
+      "description_ar": "رحلة عبر التشخيص والتعافي.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QB4BfKmT9PE"
+    }
+  ],
+  "hotline": "+962 6 530 0000",
+  "community": "https://www.facebook.com/groups/CHDmomSupport",
+  "extra_hand": {
+    "info_en": "Volunteer assistance program for families",
+    "info_ar": "برنامج المساعدة التطوعية للعائلات",
+    "contact": "+962 6 555 8888"
+  },
+  "short_break": {
+    "info_en": "Respite care services (2-3 hours)",
+    "info_ar": "خدمات الرعاية المؤقتة (2-3 ساعات)",
+    "contact": "+962 6 555 9999"
+  }
+}

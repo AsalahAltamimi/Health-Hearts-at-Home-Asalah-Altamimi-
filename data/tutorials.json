@@ -1,0 +1,87 @@
+{
+  "categories": [
+    {
+      "id": "formula",
+      "name_en": "Formula Preparation",
+      "name_ar": "تحضير الحليب",
+      "tutorials": [
+        {
+          "id": 1,
+          "title_en": "How to Mix Formula Safely",
+          "title_ar": "كيفية خلط الحليب بأمان",
+          "description_en": "Step-by-step guide to preparing infant formula.",
+          "description_ar": "دليل خطوة بخطوة لتحضير حليب الأطفال.",
+          "youtubeUrl": "https://www.youtube.com/watch?v=6FsXNuvQs3U"
+        },
+        {
+          "id": 2,
+          "title_en": "22 kcal Formula Mix",
+          "title_ar": "خلط حليب 22 سعرة",
+          "description_en": "Instructions for mixing 22 kcal formula (CDC-aligned).",
+          "description_ar": "تعليمات خلط حليب 22 سعرة (متوافقة مع CDC).",
+          "youtubeUrl": "https://www.youtube.com/watch?v=6FsXNuvQs3U"
+        }
+      ]
+    },
+    {
+      "id": "medication",
+      "name_en": "Medication",
+      "name_ar": "الأدوية",
+      "tutorials": [
+        {
+          "id": 3,
+          "title_en": "Giving Medication to Babies",
+          "title_ar": "إعطاء الأدوية للأطفال",
+          "description_en": "Safe methods for administering medication to infants.",
+          "description_ar": "طرق آمنة لإعطاء الأدوية للرضع.",
+          "youtubeUrl": "https://youtu.be/1esmeJEJSsA?si=AlGstfGg2y9p-s3d"
+        }
+      ]
+    },
+    {
+      "id": "wound",
+      "name_en": "Wound Care",
+      "name_ar": "العناية بالجروح",
+      "tutorials": [
+        {
+          "id": 4,
+          "title_en": "Basic Infant Wound Care Tutorial",
+          "title_ar": "دليل العناية الأساسية بجروح الرضع",
+          "description_en": "How to care for wounds in infants with CHD.",
+          "description_ar": "كيفية العناية بالجروح عند الرضع المصابين بمرض القلب الخلقي.",
+          "youtubeUrl": "hhttps://youtube.com/shorts/q-0KAW7Ig8Q?si=XkYo_NGyMbHh3XZw"
+        }
+      ]
+    },
+    {
+      "id": "drain",
+      "name_en": "Drain Care",
+      "name_ar": "العناية بالتصريف",
+      "tutorials": [
+        {
+          "id": 5,
+          "title_en": "Understanding Surgical Drains",
+          "title_ar": "فهم التصريفات الجراحية",
+          "description_en": "Care instructions for surgical drains.",
+          "description_ar": "تعليمات العناية بالتصريفات الجراحية.",
+          "youtubeUrl": "https://youtube.com/shorts/q-0KAW7Ig8Q?si=XkYo_NGyMbHh3XZw"
+        }
+      ]
+    },
+    {
+      "id": "discharge",
+      "name_en": "Discharge Instructions",
+      "name_ar": "تعليمات الخروج",
+      "tutorials": [
+        {
+          "id": 6,
+          "title_en": "Going Home After Infant Surgery",
+          "title_ar": "العودة إلى المنزل بعد جراحة الرضيع",
+          "description_en": "What to expect and how to care for your child after discharge.",
+          "description_ar": "ما يمكن توقعه وكيفية العناية بطفلك بعد الخروج.",
+          "youtubeUrl": "https://youtube.com/shorts/q-0KAW7Ig8Q?si=XkYo_NGyMbHh3XZw"
+        }
+      ]
+    }
+  ]
+}
